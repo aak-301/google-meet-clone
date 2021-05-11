@@ -10,4 +10,4 @@ google-meet-ui-clone
 - how to use flex
 - about positioning
 
-![screeshorts](google-meet-clone/ss1.png)
+![screeshorts]("google-meet-clone/ss1.png")
